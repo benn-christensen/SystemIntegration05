@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Examples/">
+    <Project Path="examples/Client/Client.csproj" />
+    <Project Path="examples/Server/Server.csproj" />
+  </Folder>
+  <Project Path="SystemIntegration05/SystemIntegration05.csproj" />
+</Solution>
