@@ -3,5 +3,11 @@
     <Project Path="examples/Client/Client.csproj" />
     <Project Path="examples/Server/Server.csproj" />
   </Folder>
-  <Project Path="SystemIntegration05/SystemIntegration05.csproj" />
+  <Folder Name="/Exercies/">
+    <Project Path="TaxiPublisher/TaxiPublisher.csproj" />
+    <Project Path="TaxiSubscriber/TaxiSubscriber.csproj" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
 </Solution>
